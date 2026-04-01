@@ -17,7 +17,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat"/>
   <img src="https://img.shields.io/badge/license-MIT-blue?style=flat"/>
-  <img src="https://img.shields.io/badge/internship-Harmony%20Technology-purple?style=flat"/>
 </p>
 
 ---
